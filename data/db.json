@@ -1,0 +1,23 @@
+{
+    "blogs": 
+    [
+        { 
+            "title": "My new React Website", 
+          "body": "lorem ipsum...", 
+          "author": "onlylusayo", 
+          "id": 1 
+        },
+        { 
+            "title": "My new React Website", 
+          "body": "lorem ipsum...", 
+          "author": "onlylusayo", 
+          "id": 2 
+        },
+        { 
+            "title": "My new React Website", 
+          "body": "lorem ipsum...", 
+          "author": "onlylusayo", 
+          "id": 3 
+        }
+    ]
+}
